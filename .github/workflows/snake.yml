@@ -1,0 +1,30 @@
+name: Generate snake animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" 
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to update snake grid
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?palette=github-dark
+
+
+      - name: Commit snake file
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update snake animation (safe)"
+          file_pattern: dist/snake.svg
+          commit_options: '--no-verify'
