@@ -15,7 +15,7 @@
   
   * Tenho 26 anos e sou **Desenvolvedor Full-Stack** formado em Análise e Desenvolvimento de Sistemas (2021).
   * Sou focado em transformar ideias em código limpo e funcional, cuidando de todo o ciclo de vida do desenvolvimento, do banco de dados até a interface do usuário.
-  * Atualmente, estou aprimorando meus conhecimentos e buscando novos desafios em projetos Laravel/Node.js.
+  * Atualmente, estou aprimorando meus conhecimentos e buscando novos desafios em projetos utilizando Laravel.
 </div>
 
 ---
