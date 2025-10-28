@@ -77,8 +77,8 @@
   ## 📊 Estatísticas e Atividade
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlackCrawler99&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  
-<img src="https://cdn.jsdelivr.net/gh/BlackCrawler99/BlackCrawler99@main/dist/snake.svg" alt="Snake Contribution Grid"/>  
+  <img src="https://github-profile-2d.vercel.app/api/run?username=BlackCrawler99&theme=github-dark&hide_title=true&hide_border=true" alt="Minha Atividade em 2D"/>
+  <img src="https://cdn.jsdelivr.net/gh/BlackCrawler99/BlackCrawler99@main/dist/snake.svg" alt="Snake Contribution Grid"/>  
 
 </div>
 
