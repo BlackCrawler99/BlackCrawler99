@@ -10,7 +10,7 @@ jobs:
     name: Jobs to update snake grid
     runs-on: ubuntu-latest
     permissions:
-      contents: write
+      contents: write 
 
     steps:
       - uses: actions/checkout@v3
@@ -20,7 +20,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg?palette=github-dark
-
 
       - name: Commit snake file
         uses: stefanzweifel/git-auto-commit-action@v4
