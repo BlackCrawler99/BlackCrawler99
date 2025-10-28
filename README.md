@@ -78,8 +78,8 @@
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlackCrawler99&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
   
-  <img src="https://raw.githubusercontent.com/BlackCrawler99/BlackCrawler99/main/dist/snake.svg" alt="Snake Contribution Grid"/>  
-  
+<img src="https://cdn.jsdelivr.net/gh/BlackCrawler99/BlackCrawler99@main/dist/snake.svg" alt="Snake Contribution Grid"/>  
+
 </div>
 
 ---
